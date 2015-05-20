@@ -68,7 +68,16 @@ body {
 	border: 1px solid black;
 }
 
-.footerProperties{
+.footernoteArticle{
+	font: bold;
+	font-size: 12px;
+}
+
+.bottomNote{
+	font: italic;
+	font-size: 12px;
+}
+/*.footerProperties{*/
 	width: 75%;
 	float: left;
 	text-align: center;
