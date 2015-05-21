@@ -1,6 +1,6 @@
 body {
+	background-color: #FFA07A;
 	font-family: sans-serif;
-	background-color: pink;
 	}
 /*top portion of the page but only to define page/*/
 .headerTitle{
@@ -45,8 +45,8 @@ body {
 } 
 .leftMenuWeeks{
 	color: white;
-	border: 3px solid;
 	margin-right: 40px;	
+	margin-left: 5px;
 	text-align: center;
 	background-color: black;
 	padding: 5px 5px 5px 5px;
@@ -73,12 +73,12 @@ body {
 	font-size: 12px;
 }
 
-.bottomNote{
+#bottomNote{
 	font: italic;
 	font-size: 12px;
 }
-/*.footerProperties{*/
-	width: 75%;
+.footerProperties{
+	width: 100%;
 	float: left;
 	text-align: center;
 
