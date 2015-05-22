@@ -19,6 +19,10 @@ body {
 	float: left;
 	width: 25%;
 }
+/*appling style to the links to the ritght*/
+.linkRight{
+	color: blue;	
+}
 
 .linkItem{	
 	float: left;
@@ -36,8 +40,7 @@ body {
 .leftMenu{
 	width: 25%;
 	float: left;
-	clear: left;
-	
+	clear: left;	
 } 
 .leftMenuWeeks{
 	color: white;
@@ -48,7 +51,6 @@ body {
 }
 .leftMenuImage {
 	width: 100%;
-	padding: 5px 0 0 0;
 }
 .classProgression{
 	float: left;
@@ -66,7 +68,6 @@ body {
 	margin: 10px;
 	border: 1px solid black;
 }
-
 .footernoteArticle{
 	font: bold;
 	font-size: 12px;
