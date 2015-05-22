@@ -19,10 +19,14 @@ body {
 	float: left;
 	width: 25%;
 }
+/*appling style to the links to the ritght*/
+.linkRight{
+	color: blue;	
+}
 
 .linkItem{	
 	float: left;
-	margin: 50px 0% 0% 0%;
+	margin: 75px 0% 0% 0%;
 	padding: 0 15px 0 0;
 }
 .headerLink{
@@ -36,35 +40,33 @@ body {
 .leftMenu{
 	width: 25%;
 	float: left;
-	clear: left;
-	
+	clear: left;	
 } 
 .leftMenuWeeks{
 	color: white;
-	margin-right: 40px;	
-	margin-left: 5px;
+	margin: 30px 40px 0 5px;
 	text-align: center;
 	background-color: black;
 	padding: 5px 5px 5px 5px;
 }
 .leftMenuImage {
 	width: 100%;
-	padding: 5px 0 0 0;
 }
 .classProgression{
 	float: left;
 	width: 75%;
 }
-
+.articleTitle{
+	font-weight: bold;
+	font-size: 20px;
+}
 .contentArticles{
-
 }
 .textWrap{
 	float: right;
 	margin: 10px;
 	border: 1px solid black;
 }
-
 .footernoteArticle{
 	font: bold;
 	font-size: 12px;
